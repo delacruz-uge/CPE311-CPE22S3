@@ -1,7 +1,7 @@
-# CPE311-CPE22S3
+# ![soulja-boy-pepe](https://github.com/delacruz-uge/CPE311-CPE22S3/assets/157375514/6452fb0b-1a17-45b8-a4b4-3c0e23a04c32) CPE311-CPE22S3
 My name is Eugene D.G. Dela Cruz, I am 20 years old. Currently residing at Marikina Heights, Marikina City!
 
-![soulja-boy-pepe](https://github.com/delacruz-uge/CPE311-CPE22S3/assets/157375514/6452fb0b-1a17-45b8-a4b4-3c0e23a04c32)
+
 
 ### About me!:
 - :books: Studying at Technological Institute of the Philippines.
