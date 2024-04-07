@@ -1,6 +1,7 @@
 # CPE311-CPE22S3
 My name is Eugene D.G. Dela Cruz, I am 20 years old. Currently residing at Marikina Heights, Marikina City!
-<iframe src="https://giphy.com/embed/V4NSR1NG2p0KeJJyr5" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacker-hacking-binary-V4NSR1NG2p0KeJJyr5">via GIPHY</a></p>
+![soulja-boy-pepe](https://github.com/delacruz-uge/CPE311-CPE22S3/assets/157375514/6452fb0b-1a17-45b8-a4b4-3c0e23a04c32)
+
 ### About me!:
 - :books: Studying at Technological Institute of the Philippines.
 - :cowboy_hat_face: I'm having fun learning Java and Python but currently has a small amount of knowledge(for now)
