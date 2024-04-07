@@ -11,3 +11,5 @@ My name is Eugene D.G. Dela Cruz, I am 20 years old. Currently residing at Marik
 - :performing_arts:	My hobby is playing video games and listening to podcasts to brighten up my mood!
 
 ![forrest-gump](https://github.com/delacruz-uge/CPE311-CPE22S3/assets/157375514/e8079c04-831a-4015-abac-6430c65e73dc)
+
+ 
